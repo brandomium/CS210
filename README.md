@@ -2,8 +2,8 @@
 SNHU CS210 Projects and Files
 -----------------------------------------------------------------------------------------
 
--Summarize the project and what problem it was solving
-  The project included within this repository is a submission for the SNHU CS210 Programming Languages course. The project aimed to track the frequency of purchased items from a grocery store, "Corner Grocer," as part of a fictional internship with "Chada Tech." 
+- Summarize the project and what problem it was solving
+  - The project included within this repository is a submission for the SNHU CS210 Programming Languages course. The project aimed to track the frequency of purchased items from a grocery store, "Corner Grocer," as part of a fictional internship with "Chada Tech." 
   
 --------------------------------------------------------------------------------------
 
